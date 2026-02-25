@@ -1,0 +1,7 @@
+{
+  "name": "OrieMap - AI Career Mentor",
+  "description": "Nền tảng AI hướng nghiệp thông minh dành cho học sinh THPT Việt Nam. Tư vấn chọn ngành, chọn trường và xây dựng lộ trình học tập cá nhân hóa.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
